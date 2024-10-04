@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gumroad Product Description Generator
+
+![image](https://github.com/user-attachments/assets/35a42fde-0c0b-4514-9447-f181cc4deeb2)
 
 ## Getting Started
 
