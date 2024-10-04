@@ -1,0 +1,5 @@
+Always use Next.js App Router instead of Pages Directory.
+
+Always use the latest docs and SDK from OpenAI, and not any deprecated functions/methods.
+
+Always use react-hook-form for generating any forms.
